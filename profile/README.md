@@ -16,9 +16,9 @@ This organization is where I keep my projects organized — from school assignme
 
 ## Currently working on
 
-- `arkhe` — A Python framework for building PokeMMO automation scripts *(private)*
-- `tchat` — A Python terminal-based chat (client/server)
-- `42-cpp-modules` — Working through École 42's C++ curriculum
+- `mya` — Move Your Ass, a CLI to moove my ass
+- `dot` — A dotfiles manager CLI
+- `42` — Working through École 42's curriculum
 
 ---
 
